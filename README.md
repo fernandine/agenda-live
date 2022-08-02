@@ -1,4 +1,4 @@
-# agenda-live
+# Agenda-live
 Projeto acompanhado pela instrutora Michelle Brito - Angular / Spring boot
 ## Database
 - MongoDB
